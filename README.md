@@ -12,3 +12,7 @@ Podés desplegar este bot en Railway con un solo clic:
 
 - Cuenta en [OpenAI](https://platform.openai.com/)
 - Crear archivo `.env` con:
+```
+OPENAI_API_KEY=tu_clave
+PORT=5000
+```
