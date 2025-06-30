@@ -1,10 +1,2 @@
 __pycache__/
-*.py[cod]
-*.so
-*.egg-info/
-build/
-dist/
 .env
-.env.*
-*.log
-*.sqlite3
