@@ -1,18 +1,3 @@
-# Lumi Jarvis Cloud ☁️💬
+# Lumi Jarvis Cloud
 
-Asistente inteligente basado en Flask con integración GPT-4o.
-
-## 🚀 Despliegue
-
-Podés desplegar este bot en Railway con un solo clic:
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/sergiosilis71/lumi_jarvis_cloud)
-
-## 🧠 Requiere
-
-- Cuenta en [OpenAI](https://platform.openai.com/)
-- Crear archivo `.env` con:
-```
-OPENAI_API_KEY=tu_clave
-PORT=5000
-```
+Backend Flask para Lumi con conexión a OpenAI.
